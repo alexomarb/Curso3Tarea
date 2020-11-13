@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CourseraCursoTres_MisContactos</string>
+
+    <string name="nombre">Pedro Salgado</string>
+    <string name="telefono">5554441</string>
+    <string name="email">prueba@gmail.com</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+</resources>
